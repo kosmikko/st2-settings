@@ -1,0 +1,91 @@
+{
+	//"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"draw_white_space": "all",
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "Monaco",
+	"font_size": 12.0,
+	"highlight_line": true,
+	//"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ASP",
+		"AppleScript",
+		"Batch File",
+		"C#",
+		"C++",
+		"Clojure",
+		"D",
+		"Erlang",
+		"Go",
+		"Graphviz",
+		"Groovy",
+		"Haskell",
+		"Java",
+		"LaTeX",
+		"Lisp",
+		"Lua",
+		"Makefile",
+		"Matlab",
+		"OCaml",
+		"Objective-C",
+		"Perl",
+		"Python",
+		"R",
+		"Rails",
+		"Regular Expressions",
+		"RestructuredText",
+		"Ruby",
+		"Scala",
+		"ShellScript",
+		"TCL",
+		"Textile",
+		"Vintage",
+		"YAML"
+	],
+	"jshint_options":
+	{
+		// Taken from https://github.com/serby/jshint-config
+		"curly": true,      // curly braces around all blocks should be required
+		"noempty": true,    // empty blocks should be disallowed
+		"newcap": true,     // constructor names must be capitalized
+		"eqeqeq": true,     // if === should be required
+		"eqnull": true,     // if == null comparisons should be tolerated
+		"es5": true,        // Allow ecma5
+		"undef": true,      // if variables should be declared before used
+		"devel": true,      // if logging globals should be predefined (console, alert, etc)
+		"node": true,       // if the Node.js environment globals should be predefined
+		"browser": true,    // if the standard browser globals should be predefined
+		"evil": false,      // if eval should be allowed
+		"latedef": false,   // if the use before definition should not be tolerated
+		"nonew": true,      // if using `new` for side-effects should be disallowed
+		"trailing": false,  // if trailing whitespace rules apply
+		"immed": false,     // if immediate invocations must be wrapped in parens
+		"smarttabs": true,  // if smarttabs should be tolerated
+		"predef": [
+			"describe",       // Used by mocha
+			"it",             // Used by mocha
+			"before",         // Used by mocha
+			"beforeEach",     // Used by mocha
+			"after",          // Used by mocha
+			"afterEach",      // Used by mocha
+			"Ext",            // Used by Sencha Touch
+			"$"               // Used by jQuery
+		]
+	},
+	"scroll_past_end": true,
+	"tab_size": 2,
+	//"theme": "Soda Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"word_wrap": false,
+	"detect_slow_plugins": false
+}
