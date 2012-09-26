@@ -3,8 +3,8 @@
 This repo contains the contents of my User folder.
 
 ##Installation
-	cd ~//Application Support/Sublime Text 2/Packages
-	ln -s ~/path_to/st2-settings User
+	cd ~/Library/Application Support/Sublime Text 2/Packages
+	ln -s ~/path_to/st2-settings/ User
 	git clone https://github.com/wbond/sublime_package_control.git
 
 ## Packages Used
@@ -17,6 +17,7 @@ This repo contains the contents of my User folder.
 * [Sublime Code Intel](https://github.com/Kronuz/SublimeCodeIntel)
 * [Sublime Linter](https://github.com/Kronuz/SublimeLinter)
 * [Zen Coding](https://bitbucket.org/wbond/sublime-2-zencoding)
+* [Advance New file](https://github.com/xobb1t/Sublime-AdvancedNewFile)
 
 ## TextMate Bundles Used
 * [CSS-JackBB](https://github.com/jackbb/CSS-JackBB.tmbundle)
