@@ -11,5 +11,6 @@
 		 [
 				{ "key": "selector", "operator": "equal", "operand": "source.css" }
 		 ]
-	}
+	},
+	{"keys": ["super+shift+r"], "command": "reindent" , "args": {"single_line": false}}
 ]
