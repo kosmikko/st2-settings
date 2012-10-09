@@ -1,0 +1,14 @@
+{
+  "javascript_linter": "jshint",
+  "jshint_options":
+  {
+      "evil": true,
+      "regexdash": true,
+      "browser": true,
+      "wsh": true,
+      "trailing": true,
+      "sub": true,
+      "laxcomma": true
+  }
+
+}
