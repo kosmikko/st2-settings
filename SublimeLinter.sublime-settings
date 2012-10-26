@@ -8,7 +8,16 @@
       "wsh": true,
       "trailing": true,
       "sub": true,
-      "laxcomma": true
+      "laxcomma": true,
+      "predef": [
+          "_",
+          "sinon",
+          "expect",
+          "it",
+          "beforeEach",
+          "describe"
+      ]
+
   }
 
 }
