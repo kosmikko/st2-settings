@@ -18,7 +18,9 @@
           "afterEach",
           "after",
           "before",
-          "describe"
+          "describe",
+          "console",
+          "define"
       ]
 
   }
