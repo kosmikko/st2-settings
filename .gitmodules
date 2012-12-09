@@ -1,0 +1,3 @@
+[submodule "Snippets/js-snippets"]
+	path = Snippets/js-snippets
+	url = https://github.com/jprichardson/sublime-js-snippets.git
